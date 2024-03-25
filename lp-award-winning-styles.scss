@@ -112,7 +112,7 @@ header { position: relative; padding: 0; z-index: 100; background-color: #fff;
 		  }
     }
 }
-.fix-nav header{position:fixed;width:100%;left:0;top:0;right:0; animation-duration:.8s; animation-fill-mode:both; animation-name:slideIn; z-index:110; box-shadow:0 3px 7px rgba(0,0,0,0.35); padding-bottom: 10px;
+.fix-nav header{position:fixed;width:100%;left:0;top:0;right:0; animation-duration:.8s; animation-fill-mode:both; animation-name:slideIn; z-index:110; box-shadow:0 3px 7px rgba(0,0,0,0.35);
     .logo img {max-height: 70px;}
 }
 address a{color: $text; font-size: 20px;text-transform:uppercase; margin: 0 7px; line-height: 1.39; letter-spacing: 0.5px; font-family: $font2;
